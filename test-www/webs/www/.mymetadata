@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module type="WEB" name="www" id="www" context-root="/www" j2ee-spec="1.4" archive="www.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp"/>
+  </attributes>
+</project-module>
